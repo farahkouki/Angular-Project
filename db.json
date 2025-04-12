@@ -1,0 +1,39 @@
+{
+  "residences": [
+    {
+      "id": "1",
+      "name": "Residence 1",
+      "address": "123 Main St",
+      "image": "assets/default-image.jpg",
+      "status": "Available"
+    },
+    {
+      "name": "Residence 5",
+      "address": "456 Elm St",
+      "image": "assets/default-image.jpg",
+      "status": "Unavailable",
+      "id": "2"
+    },
+    {
+      "id": "182f",
+      "name": "sousse",
+      "address": "tunisiaaaaaaa",
+      "image": "../../assets/images/R4.jpg",
+      "status": "Available"
+    },
+    {
+      "name": "farah",
+      "address": "tunisia TESTOUR 9060",
+      "image": "../../assets/images/f.jpg",
+      "status": "Available",
+      "id": "4f5a"
+    },
+    {
+      "id": "c5c5",
+      "name": "test",
+      "address": "tunisiaaaaaaa",
+      "image": "../../assets/images/R3.jpg",
+      "status": "Available"
+    }
+  ]
+}
